@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "webdriverio/async",
+            "@wdio/mocha-framework",
+            "expect-webdriverio",
+            "mocha",
+        ],
+        "target": "es2019",
+        "moduleResolution": "node",
+    },
+    // "paths": {
+    //     "*": [
+    //       "./*"
+    //     ]
+    // },
+    // "include": [
+    //     "**/*.spec.ts",
+    //     "**/*.ts",
+    //     "**/**/*.json"
+    // ],
+    // "exclude": [
+    //     "node_modules"
+    // ]
+}
